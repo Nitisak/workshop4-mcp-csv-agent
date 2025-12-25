@@ -1,0 +1,8 @@
+Assets/MCP_OpenAPI_Key.txt
+.venv
+.env
+*/__pycache__/*
+/src/resources/__pycache__
+/src/prompts/__pycache__
+/src/tools/__pycache__
+/src/utils/__pycache__
